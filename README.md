@@ -38,8 +38,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [here](https://your-solution-url.com)
-- Live Site URL: [here](https://your-live-site-url.com)
+- Solution URL: [here](https://www.frontendmentor.io/solutions/responsive-frontend-mentor-qr-code-component-_FZoDNz77I)
+- Live Site URL: [here](https://fe-mentor-qr-code-component-raysh4n.netlify.app/)
 
 ## My process
 
